@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\api.mongo\api.mongo\bin\Debug\netcoreapp2.1\api.mongo.deps.json
+C:\Users\user\source\repos\api.mongo\api.mongo\bin\Debug\netcoreapp2.1\api.mongo.runtimeconfig.json
+C:\Users\user\source\repos\api.mongo\api.mongo\bin\Debug\netcoreapp2.1\api.mongo.runtimeconfig.dev.json
+C:\Users\user\source\repos\api.mongo\api.mongo\bin\Debug\netcoreapp2.1\api.mongo.dll
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.AssemblyInfo.cs
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\api.mongo\api.mongo\bin\Debug\netcoreapp2.1\api.mongo.pdb
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.dll
+C:\Users\user\source\repos\api.mongo\api.mongo\obj\Debug\netcoreapp2.1\api.mongo.pdb
